@@ -1,7 +1,7 @@
 import "./App.css";
 import { ethers } from "ethers";
 import { useState, useEffect } from "react";
-import Wallet from "./components/Wallet";
+import Wallet from "./components/WalletConnect/Wallet";
 
 function App() {
   return (
